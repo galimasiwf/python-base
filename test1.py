@@ -1,8 +1,10 @@
 name = "Nithish"
 print(" My Name is " + name)
-age = 20
+age = 12
 print(" My Age is " + str(age))
-height = 5.8
+height = 4.8
 print(" My Height is " + str(height) + " feet")
 is_student = True
+school = "Gaudium School"
 print(" Am I a student? " + str(is_student))
+print(" I study at " + school)
